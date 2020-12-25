@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GoodCheapFast/static/css/main.6e7b0481.chunk.css",
+    "main.js": "/GoodCheapFast/static/js/main.de3c677f.chunk.js",
+    "main.js.map": "/GoodCheapFast/static/js/main.de3c677f.chunk.js.map",
+    "runtime-main.js": "/GoodCheapFast/static/js/runtime-main.a281d18f.js",
+    "runtime-main.js.map": "/GoodCheapFast/static/js/runtime-main.a281d18f.js.map",
+    "static/js/2.11e8b3d8.chunk.js": "/GoodCheapFast/static/js/2.11e8b3d8.chunk.js",
+    "static/js/2.11e8b3d8.chunk.js.map": "/GoodCheapFast/static/js/2.11e8b3d8.chunk.js.map",
+    "index.html": "/GoodCheapFast/index.html",
+    "static/css/main.6e7b0481.chunk.css.map": "/GoodCheapFast/static/css/main.6e7b0481.chunk.css.map",
+    "static/js/2.11e8b3d8.chunk.js.LICENSE.txt": "/GoodCheapFast/static/js/2.11e8b3d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a281d18f.js",
+    "static/js/2.11e8b3d8.chunk.js",
+    "static/css/main.6e7b0481.chunk.css",
+    "static/js/main.de3c677f.chunk.js"
+  ]
+}
